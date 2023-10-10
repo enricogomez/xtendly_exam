@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "id": "hoodie",
+      "name": "Hoodies",
+      "imagePath": "assets/images/hoodie.png"
+    },
+    {
+      "id": "sweatshirt",
+      "name": "Sweatshirts",
+      "imagePath": "assets/images/sweatshirt.png"
+    },
+    {
+      "id": "pair",
+      "name": "Pair",
+      "imagePath": "assets/images/hoodie.png"
+    }
+  ]
+}
